@@ -25,7 +25,7 @@ The app can also be run directly from cmd using jar file in the app's directory 
 
 using the following command:
 
-``` java -jar Appgame_run.jar ```
+``` java -jar App_run_game.jar ```
 
 It's configured to be launched:
 
